@@ -1,23 +1,23 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+ANALISE E DESENVOLVIMENTO DE SISTEMAS
 
-`DISCIPLINA`
+TRABALHO INTERDISCIPLINAR: APLICAÇÕES PARA PROCESSOS DE NEGÓCIO
 
-`SEMESTRE`
+SEGUNDO SEMESTRE
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Caio Costa Magalhaes
+* Gabrieli Castro
+* Guilherme Cardoso Ferreira da Silva
+* Pedro Henrique Faria Godinho
 
 ## Orientador
 
-* Nome completo do professor 1
+* Gleisson Albergaria Amaral
 
 ## Instruções de utilização
 
